@@ -1,0 +1,57 @@
+.principal {
+    text-align: center;
+    margin-top: 2em;
+
+}
+
+.principal .row{
+    margin-top: 2em;
+}
+
+.principal h1{
+    color: #0361E4;
+    font-weight: 600;
+}
+
+.principal h5{
+    color: #000000;
+    font-weight: 600;
+}
+
+.principal label{
+    color: #000000;
+    font-weight: 500;
+}
+
+.principal h3{
+    font-size: 1.3em;
+    color: #224692;
+    font-weight: 500;
+}
+
+
+.card1{
+    margin-bottom: 2em;
+	height: 22em;
+}
+
+.card1 label{
+    font-size: 1.2em;
+}
+
+
+.card2{
+    margin-bottom: 2em;
+	height: auto;
+}
+
+.card2 h3, .card2 p{
+    text-align: left;
+}
+
+.card2 h6{
+    text-align: center;
+}
+
+
+
