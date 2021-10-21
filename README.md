@@ -25,7 +25,7 @@ Al terminar, para correr el proyecto de manera local en nuestra computadora, deb
 
 Esta aplicación corre en modo de desarrollo, por que posiblemente, se abra automáticamente el navegador con la aplicación.
 En caso contrario, abre una pestaña nueva del navegador y escribe la siguiente URL:
-[http://localhost:3000](http://localhost:3000) to view it in the browser.
+[http://localhost:3000](http://localhost:3000)
 
 ## Página web
 
