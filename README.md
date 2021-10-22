@@ -7,13 +7,13 @@
 
 Este proyecto fue creado en [Create React App](https://github.com/facebook/create-react-app).
 
-## Intrucciones de descarga
+## Instrucciones de descarga
 
 Mediante la terminal, se debe escribir el siguiente comando:
 
 ### `git clone https://github.com/JohnOrt31/truehome-prueba.git`
 
-## Intrucciones de instalación y ejecución
+## Instrucciones de instalación y ejecución
 
 Después de clonar/descargar el repositorio, realiza el siguiente comando para instalar los paquetes que se usaron
 
